@@ -3,5 +3,6 @@ Hello!!
 I am Atik Foysal.
 I am from Bangladesh.
 Now i am practicing IELTS for IELTS examination & also worked on WebPro Ai Solutions.
-Here add something for create a conflict.
+Here add something for create a conflict. 
+To the point view we will discuss about git conflict.
 
